@@ -3,6 +3,10 @@
 Parser for creating output tables from Acunetix Vulnerability Report CSV.
 
 Filters on the "Name" field and extracts relevant data.
+
+Will create an output .csv file for each type, one argument at a time (`--unique` can be combined with any).
+Output file will be placed in specified output directory (CWD if none specified), with a name related to the filter and date/time.
+
 ## Usage
 ```
 usage: AcunetixCsv2Rootshell.py [-h] --inputfile INPUTFILE [--outputfolder OUTPUTFOLDER] [--cookiehttp] [--cookiesecure] [--cookieinconsistent] [--XSS] [--unique]
@@ -23,3 +27,4 @@ options:
   --XSS, -x             Filter for 'Cross-site Scripting'.
   --unique, -u          Remove duplicate entries from the output file.
 ```
+
