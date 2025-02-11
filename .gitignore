@@ -1,29 +1,3 @@
-input/20250204_CSV_Vulnerabilities_Multiple_targets (2).csv
-input/data.csv
-input/input.bak.csv
-input/input.csv
-input/warehouse.csv
-output/Cookies_Not_Marked_as_HttpOnly_250205191838.csv
-output/Cookies_Not_Marked_as_HttpOnly_250205192251.csv
-output/Cookies_Not_Marked_as_HttpOnly_250205195338.csv
-output/Cookies_Not_Marked_as_HttpOnly_250205195540.csv
-output/Cookies_Not_Marked_as_Secure_250205191831.csv
-output/Cookies_Not_Marked_as_Secure_250205195125.csv
-output/Cookies_Not_Marked_as_Secure_250205195225.csv
-output/Cookies_Not_Marked_as_Secure_250205195631.csv
-output/Cookies_with_missing,_inconsistent_or_contradictory_properties_250206165412.csv
-output/Cookies_with_missing,_inconsistent_or_contradictory_properties_250206170001.csv
-output/Cross-site_Scripting_250206200113.csv
-output/Cross-site_Scripting_250211134317.csv
-output/output.csv
-output/output2.csv
-output/parsed_20250204_CSV_Vulnerabilities_Multiple_targets (1).xlsx
-output/parsed_20250204_CSV_Vulnerabilities_Multiple_targets (2).xlsx
-archives/4.py
-archives/5.py
-archives/6.py
-archives/Acunetix-CSV-parser.py
-archives/Cookie-Table-3-modular.py
-archives/Cookie-Table-Creator-2.py
-archives/Cookie-Table-Creator.py
-archives/extract_cookie_data_updated.py
+input/
+output/
+archives/
