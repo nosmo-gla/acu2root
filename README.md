@@ -28,3 +28,7 @@ options:
   --unique, -u          Remove duplicate entries from the output file.
 ```
 
+
+## TODO
+- Add SQLi support
+- Allow multiple flags to run at once
